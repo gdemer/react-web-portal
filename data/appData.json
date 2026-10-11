@@ -1,0 +1,103 @@
+{
+  "appTitle": "My Web Portal",
+  "subtitle": "Οι αγαπημένες σας ιστοσελίδες σε ένα σημείο",
+  "locale": "el-GR",
+  "dateTimeLabel": "Ημερομηνία και ώρα",
+  "navigationTitle": "Πλοήγηση",
+  "contentLabel": "ΠΕΡΙΕΧΟΜΕΝΟ",
+  "showDescription": false,
+  "openExternalLabel": "Άνοιγμα σε νέα καρτέλα",
+  "emptyTitle": "Καλώς ήρθατε",
+  "emptyMessage": "Επιλέξτε μια ιστοσελίδα από το αριστερό μενού.",
+  "startUrl": "https://www.wikipedia.org/",
+  "sidebarNote": "Επιλέξτε μια σελίδα για να εμφανιστεί εδώ.",
+  "footerText": "© 2026 · Όνομα Δημιουργού · Όλα τα δικαιώματα διατηρούνται",
+  "footerRightText": "Έκδοση 1.0.0",
+  "groups": [
+    {
+      "groupName": "Κοινωνικά Δίκτυα",
+      "items": [
+        {
+          "title": "Facebook",
+          "description": "Κοινωνικό δίκτυο",
+          "url": "https://www.facebook.com/",
+          "openInNewTab": true
+        },
+        {
+          "title": "Χ",
+          "description": "Twitter",
+          "url": "https://X.com/",
+          "openInNewTab": true
+        },
+        {
+          "title": "Instagram",
+          "description": "Κοινωνικό δίκτυο",
+          "url": "https://instagram.com/",
+          "openInNewTab": false
+        }
+      ],
+      "icon": "Users",
+      "color": "#db2777"
+    },
+    {
+      "groupName": "Ενημέρωση",
+      "items": [
+        {
+          "title": "Καθημερινή",
+          "description": "Εφημερίδα",
+          "url": "https://www.kathimerini.gr/"
+        },
+        {
+          "title": "Τα Νεα  ",
+          "description": "Εφημερίδα",
+          "url": "https://www.tanea.gr/"
+        },
+        {
+          "title": "News Beast",
+          "description": "Ειδησεογραφικό site",
+          "url": "https://www.newsbeast.gr/"
+        },
+        {
+          "title": "In.gr",
+          "description": "Ειδησεογραφικό site",
+          "url": "https://in.gr/"
+        },
+        {
+          "title": "Wikipedia",
+          "description": "Η ελεύθερη εγκυκλοπαίδεια",
+          "url": "https://www.wikipedia.org/"
+        },
+        {
+          "title": "MDN Web Docs",
+          "description": "Τεκμηρίωση τεχνολογιών ιστού",
+          "url": "https://developer.mozilla.org/"
+        }
+      ],
+      "icon": "Newspaper",
+      "color": "#2563eb"
+    },
+    {
+      "groupName": "Εργαλεία ανάπτυξης",
+      "items": [
+        {
+          "title": "Github",
+          "description": "Πλατφόρμα φιλοξενίας κώδικα",
+          "url": "https://github.com/",
+          "openInNewTab": true
+        },
+        {
+          "title": "React",
+          "description": "Επίσημη ιστοσελίδα της React",
+          "url": "https://react.dev/"
+        },
+        {
+          "title": "Vite",
+          "description": "Εργαλείο ανάπτυξης frontend",
+          "url": "https://vite.dev/"
+        }
+      ],
+      "icon": "Code2",
+      "color": "#059669"
+    }
+  ]
+}
